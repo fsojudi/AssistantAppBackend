@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pe9gGVB2Sn8uGbJVl0mCVPtxUVzu/b3JhiHdASJwrxo=",
+  "Source": "AssistantAppBackend",
+  "BasePath": "_content/AssistantAppBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
